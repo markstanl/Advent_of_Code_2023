@@ -5,4 +5,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 Made by [Eric Watlst](http://was.tl/)
 
-As of now, all of my code will be in java. None of the specific problems will be referenced in the file, but the title will refer to each problem
+As of now, all of my code will be in java. None of the specific problems will be referenced in the file, but the title will refer to each problem, and the method will describe the logic to the solution
