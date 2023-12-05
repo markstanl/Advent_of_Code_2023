@@ -1,4 +1,10 @@
-
+/**
+*This class takes a long string full of different line strings, breaks them apart to a single line, 
+*records the first and last instance of a string number (ex. the word "one") or a character digit ('1'), 
+* is either is a string number, it gets converted to an integer, and the first and last instance
+* of the numbers are concatenated together into a 2 digit number, and this integer is summed with every
+* line, and is printed
+*/
 public class D01_5 {
 
   /**
